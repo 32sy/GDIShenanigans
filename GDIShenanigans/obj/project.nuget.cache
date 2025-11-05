@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNX1RATOGvg=",
+  "success": true,
+  "projectFilePath": "/home/libc6/RiderProjects/GDIShenanigans/GDIShenanigans/GDIShenanigans.csproj",
+  "expectedPackageFiles": [
+    "/home/libc6/.nuget/packages/microsoft.net.illink.tasks/8.0.13/microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "/home/libc6/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/libc6/.nuget/packages/system.security.accesscontrol/6.0.1/system.security.accesscontrol.6.0.1.nupkg.sha512",
+    "/home/libc6/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/libc6/.nuget/packages/vanara.core/4.2.1/vanara.core.4.2.1.nupkg.sha512",
+    "/home/libc6/.nuget/packages/vanara.pinvoke.gdi32/4.2.1/vanara.pinvoke.gdi32.4.2.1.nupkg.sha512",
+    "/home/libc6/.nuget/packages/vanara.pinvoke.kernel32/4.2.1/vanara.pinvoke.kernel32.4.2.1.nupkg.sha512",
+    "/home/libc6/.nuget/packages/vanara.pinvoke.shared/4.2.1/vanara.pinvoke.shared.4.2.1.nupkg.sha512",
+    "/home/libc6/.nuget/packages/vanara.pinvoke.user32/4.2.1/vanara.pinvoke.user32.4.2.1.nupkg.sha512",
+    "/home/libc6/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/libc6/.nuget/packages/microsoft.netcore.app.runtime.win-x86/8.0.13/microsoft.netcore.app.runtime.win-x86.8.0.13.nupkg.sha512",
+    "/home/libc6/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/libc6/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x86/8.0.13/microsoft.aspnetcore.app.runtime.win-x86.8.0.13.nupkg.sha512",
+    "/home/libc6/.nuget/packages/microsoft.netcore.app.host.win-x86/8.0.13/microsoft.netcore.app.host.win-x86.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
