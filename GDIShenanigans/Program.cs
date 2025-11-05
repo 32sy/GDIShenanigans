@@ -74,7 +74,9 @@ class MainClass
 
         while (!shouldClose)
         {
-            if (GetAsyncKeyState((int)ConsoleKey.Escape) != 0)
+            if ((GetAsyncKeyState(17) & 0x8000) != 0 &&
+                GetAsyncKeyState(18) != 0 && // ALT key
+                GetAsyncKeyState((int)ConsoleKey.X) != 0)
             {
                 shouldClose = true;
             }
